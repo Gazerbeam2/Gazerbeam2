@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
+<h3 align="center">Projects</h3>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.leetcode.com/gazerbeam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gazerbeam2" height="30" width="40" /></a>
