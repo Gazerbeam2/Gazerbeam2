@@ -6,6 +6,27 @@
                             - 🌱 I’m currently learning **Javascript**
 
 <h3 align="center">Projects:</h3>
+<table>
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Personal Website</h3>
+      <br />
+        <a target="_blank" href="https://personal-website-project-sand.vercel.app/">
+          <img src="https://i.ibb.co/2KkHGY5/Screenshot-from-2024-02-20-17-32-06.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://personal-website-project-sand.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 
