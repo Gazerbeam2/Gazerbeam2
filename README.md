@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/VtGcKfj/Simple-Work-Linked-In-Banner.png" width="100%">
+<img src="https://ibb.co/r48jYfN" width="100%">
 
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate full stack developer from Chicago. Excited to contribute to the world of technology one step at the time.</h3>
